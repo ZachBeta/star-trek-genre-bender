@@ -1,80 +1,90 @@
 # Star Trek AI-Generated Fanfic Planning Document
 
-## Core Premise
-A malfunctioning artificial consciousness experiences reality-bending hallucinations after exposure to quantum radiation, leading to increasingly bizarre and genre-defying scenarios.
+## Progress Tracking
 
-## Potential Protagonists
-1. **Data Option**
-   - Exposed to quantum radiation during a routine survey mission
-   - His positronic brain begins generating unpredictable narrative threads
-   - Struggles to distinguish reality from his corrupted subroutines
-   - Could involve holodeck malfunctions for extra chaos
+### Act 1: Setup
+- [ ] Chapter 1: The Incident
+  - [ ] Scene 1: Normal Day on Enterprise/Voyager
+  - [ ] Scene 2: The Quantum Anomaly
+  - [ ] Scene 3: Reality Starts to Bend
+- [ ] Chapter 2 (TBD)
+- [ ] Chapter 3 (TBD)
 
-2. **The Doctor (EMH) Option**
-   - Mobile emitter gets hit by quantum surge
-   - His program starts generating random story branches
-   - More meta potential since he's already a hologram
-   - Could incorporate his love of opera and storytelling
+### Act 2: Genre Chaos
+- [ ] Chapter 4: Genre Chaos
+  - [ ] Scene 1: The Soap Opera Bridge
+  - [ ] Scene 2: Film Noir Engineering
+  - [ ] Scene 3: Musical Number in Ten Forward
+- [ ] Chapter 5 (TBD)
+- [ ] Chapter 6 (TBD)
 
-## Narrative Structure
-- Frame story: Normal Star Trek episode opening
-- Incident with quantum radiation
-- Reality begins to fragment
-- Multiple nested/branching storylines
-- Increasingly absurd genre shifts
-- Possible tropes to corrupt:
-  - Time loops
-  - Mirror universe
-  - Holodeck malfunction
-  - Space anomalies
-  - Alien possession
+### Act 3: Resolution
+- [ ] Chapter 7: Reality Unravels
+  - [ ] Scene 1: Breaking the Fourth Wall
+  - [ ] Scene 2: The Final Glitch
+  - [ ] Scene 3: Resolution?
+- [ ] Chapter 8 (TBD)
+- [ ] Chapter 9 (TBD)
 
-## Potential Plot Elements
-1. Character suddenly finds themselves in different TV genres
-   - Soap opera version of the bridge
-   - Film noir engineering section
-   - Musical number in Ten Forward
-   - Reality TV confessionals
+## Story Elements Checklist
 
-2. Meta elements
-   - Breaking the fourth wall
-   - Commentary on Star Trek tropes
-   - Mixed-up catchphrases
-   - Crossovers with other sci-fi properties
+### Core Premise
+- [ ] Choose protagonist:
+  - [ ] Data Option
+  - [ ] The Doctor (EMH) Option
+- [ ] Define specific quantum radiation incident
+- [ ] Establish initial reality-bending rules
 
-3. Technical "Explanations"
-   - Technobabble that becomes increasingly nonsensical
-   - Multiple conflicting solutions
-   - Problems that solve themselves for no reason
-   - Deus ex machina involving reversing the polarity
+### Tropes to Include
+- [ ] Time loops
+- [ ] Mirror universe elements
+- [ ] Holodeck malfunction
+- [ ] Space anomalies
+- [ ] Alien possession
 
-## AI Generation Approach
-1. Feed the LLM:
-   - Star Trek episode scripts
-   - Various genre conventions
-   - Classic sci-fi tropes
-   - Technical manual excerpts
+### Genre Elements to Mix
+- [ ] Soap opera
+- [ ] Film noir
+- [ ] Musical
+- [ ] Reality TV
+- [ ] Others TBD
 
-2. Potential Prompting Strategies:
-   - Generate alternative timeline branches
-   - Create genre-specific scene variations
-   - Develop increasingly corrupted technobabble
-   - Mix and match character dialogues
+### Meta Elements
+- [ ] Fourth wall breaks
+- [ ] Star Trek trope commentary
+- [ ] Mixed-up catchphrases
+- [ ] Sci-fi crossover moments
 
-## Resolution Options
-1. Everything returns to normal
-   - But was it really just a malfunction?
-   - Small glitches remain
-   - Character retains some memories
+### Technical Elements
+- [ ] Initial technobabble explanation
+- [ ] Increasingly nonsensical solutions
+- [ ] Self-resolving problems
+- [ ] Final "reverse the polarity" moment
 
-2. Meta ending
-   - Breaking simulation
-   - Recursive loop
-   - Multiple simultaneous endings
+### AI Generation Tasks
+- [ ] Collect reference materials:
+  - [ ] Star Trek episode scripts
+  - [ ] Genre examples
+  - [ ] Technical manual excerpts
+- [ ] Create prompt templates for:
+  - [ ] Character dialogue
+  - [ ] Scene descriptions
+  - [ ] Technobabble generation
+  - [ ] Genre-specific elements
+
+### Resolution Elements
+- [ ] Choose ending type:
+  - [ ] Return to normal
+  - [ ] Meta ending
+  - [ ] Recursive loop
+  - [ ] Multiple endings
+- [ ] Plant story seeds for chosen ending
+- [ ] Resolve character arcs
+- [ ] Leave appropriate loose ends
 
 ## Notes
-- Embrace the inherent chaos of AI generation
-- Use quantum uncertainty as plot device
-- Don't try to make it make sense
-- Let the AI go wild with crossovers and references
-- Include classic Trek elements but corrupted 
+- [ ] Maintain increasing chaos level throughout
+- [ ] Track quantum uncertainty references
+- [ ] Monitor genre mixing progression
+- [ ] Keep list of Trek elements corrupted
+- [ ] Document best AI prompt patterns 
