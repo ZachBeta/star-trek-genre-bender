@@ -94,6 +94,7 @@ During a routine pulsar study, Lt. Commander Data experiences 22 minutes of subj
 
 ### Trek References & Homages
 - Structure similar to "Inner Light" and "Frame of Mind"
+- Fist Full of Datas - TNG:S06E08
 - EMH cameo ties to broader Trek universe
 - Subtle references to classic episodes
 - Genre shifts reference various Trek episodes' styles
