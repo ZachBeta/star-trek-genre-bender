@@ -16,6 +16,7 @@ The story takes place entirely in Data's mind during 22 minutes of real time, wh
 - `core_premise.md` - The main technical document outlining the story framework
 - `story_plan.md` - Detailed chapter and scene breakdown
 - More files to come as we replicate them into existence
+- All files will stay in root directory to make it easier to read for a human
 
 ### The Prime Directive
 
