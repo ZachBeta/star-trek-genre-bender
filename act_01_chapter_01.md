@@ -32,28 +32,20 @@ The viewscreen shifted to show what appeared to be a ripple in space, like heat 
 
 ## Scene 3: Reality Starts to Bend
 
-The first sign that something was terribly wrong came when Ensign Crusher's console began displaying text in what appeared to be binary, then Klingon, then something entirely alien—all in the span of seconds.
-[ed: great visual]
+The first sign that something was terribly wrong came when Ensign Crusher's console began displaying cascading symbols—familiar yet wrong, like a corrupted memory.
 
-"Captain," Wesley's voice cracked with concern, "the nav controls are... they're rewriting themselves."
-[less on the nose]
+"Captain," Wesley frowned at his station, "something's wrong with the navigation interface."
 
-Data's hands flew across his console, but even his positronic brain struggled to make sense of what he was seeing. "Captain, I'm detecting a cascade of quantum irregularities. They appear to be... editing our reality."
-[too on the nose]
+Data's hands moved with increasing speed across his console. His head tilted slightly, a subtle indication that even his positronic brain was struggling to process what he was seeing. "Captain, the quantum irregularities are expanding exponentially."
 
-The lighting on the bridge flickered, and for a moment, everyone saw double—no, triple versions of themselves, each slightly different. Counselor Troi gasped as she felt the emotional echoes of multiple timeline versions of the crew converging.
-[I like this, but try to make it more subtle]
+The bridge lighting flickered. In that moment of darkness, each crew member experienced a disorienting sense of déjà vu—as if seeing themselves from multiple angles at once. Counselor Troi pressed her fingers to her temples, overwhelmed by the psychic echo.
+[more subtle]
 
-"All hands," Picard's voice remained steady despite the chaos unfolding around them, "this is the Captain. We are experiencing some form of quantum-level event. Remain at your stations and—"
-[red alert? let's discuss]
+"All hands," Picard's voice remained steady despite the chaos unfolding around them, "this is the Captain. We are experiencing some form of—"
 
-His voice cut off as reality itself seemed to hiccup. For a fraction of a second, the bridge crew saw something impossible: lines of code scrolling through the air itself, as if the universe were a program being debugged.
-[no]
+The ship shuddered. Through the viewscreen, stars winked out in impossible patterns, leaving behind vast stretches of empty void. Data's movements became erratic, his normally fluid gestures stuttering like a corrupted hologram.
 
-"Sir," Data's voice carried an unusual note of urgency, "I believe we are experiencing a fundamental breakdown in the structure of our reality. The patterns suggest... we may be inside some form of simulation."
-
-The ship shuddered, and through the viewscreen, they watched as stars began to blink out one by one, replaced by what looked like placeholder text: *[Star_Object_001]*, *[Star_Object_002]*, *[Star_Object_003]*...
+"Sir," Data's voice carried an unusual note of strain, "I am detecting... patterns within... patterns..." His eyes rolled back, and for the first time in his existence, the android lost consciousness.
 
 To be continued... 
-
-[ed: let's tighten scene 3, and get to "data passes out" faster]
+Intro Music eases in, intro sequence starts
