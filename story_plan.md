@@ -68,23 +68,18 @@
 ## Story Elements Checklist
 
 ### Core Premise
+> Detailed analysis available in `core_premise.md`
 - [ ] Protagonist Selection:
-  - [ ] Data Option
-    - Unique perspective on narrative structure
-    - Immunity to genre changes
-    - Meta-awareness capabilities
-  - [ ] The Doctor (EMH) Option
-    - Program adapting to genre shifts
-    - Holographic nature as plot device
-    - Medical perspective on reality changes
-- [ ] Quantum Radiation Incident
-  - [ ] Subspace fracture in narrative reality
-  - [ ] Genre boundaries become permeable
-  - [ ] Progressive reality degradation
-- [ ] Reality-Bending Rules
-  - [ ] Genre shifts follow emotional states
-  - [ ] Technology affects narrative structure
-  - [ ] Meta-awareness increases chaos
+  - [ ] Data Option (Android Observer)
+  - [ ] The Doctor Option (Adaptive Program)
+- [ ] Quantum Anomaly Definition
+  - [ ] Technical cause
+  - [ ] Manifestation pattern
+  - [ ] Containment protocols
+- [ ] Reality-Bending Framework
+  - [ ] Genre propagation rules
+  - [ ] Character awareness system
+  - [ ] Technology adaptation mechanics
 
 ### Genre Integration Matrix
 | Genre | Location | Key Elements | Trek Elements Affected |
